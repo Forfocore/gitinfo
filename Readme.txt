@@ -5,7 +5,7 @@ git clone https://... nameProject
 git add .
 
 Записать коммит:
-git commit -m "Комментарий коммита"
+git commit -m "Комментарий клиента"
 
 Отправить коммит:
 git push
