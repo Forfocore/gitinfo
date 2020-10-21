@@ -1,4 +1,4 @@
-Клонирование проекта в папку nameProject:
+﻿Клонирование проекта в папку nameProject:
 git clone https://... nameProject
 
 Добавить файлы в коммит:
